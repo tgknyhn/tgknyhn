@@ -1,8 +1,10 @@
-### Hi there 👋 I am Tuğkan from Turkey, and I am a Computer Engineering student at Gebze Technical University. 
+<h2 align="center"> Hi. I am Tuğkan from Turkey, and it's my 3rd year as a Computer Engineering student.</h1> 
+</br>
+- 🌱 I’m currently learning Kotlin(planning to learn Flutter, MySQL and NodeJS)</br>
+- 🔭 I’m currently working on tracking and delivery system for carpet washing companies</br>
+- 🤔 I’m looking for help with how to connect database and server to my both mobile and web versions of the app.</br></br>
 
-- 🌱 I’m currently learning Kotlin(planning start learning Flutter, MySQL and NodeJS)
-- 🔭 I’m currently working on tracking and delivery system for carpet washing companies
-
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=tgknyhn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgknyhn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 <!--
 **tgknyhn/tgknyhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
