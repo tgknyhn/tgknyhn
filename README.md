@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Kotlin(planning to learn Flutter, MySQL and NodeJS)</br>
 - 🔭 I’m currently working on a tracking and delivery system for carpet washing companies</br>
-- 🤔 I’m looking for help with how to connect database and server to my both mobile and web versions of the app.</br></br>
+- 🤔 I’m looking for help with how to connect database and server to both mobile and web versions of my app.</br></br>
 
 
 <!-- General Informations -->
