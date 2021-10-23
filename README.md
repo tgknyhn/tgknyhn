@@ -4,7 +4,7 @@
 
 <!-- Currently works -->
 
-- 🌱 I’m currently learning Kotlin</br>
+- 🌱 I’m currently learning Flutter</br>
 - 🔭 I’m currently working on a tracking and delivery system for carpet washing companies</br>
 
 
