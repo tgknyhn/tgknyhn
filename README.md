@@ -18,9 +18,14 @@
 **Languages and Tools:**
 
 <p>
+<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/vsc_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio Code">
 <img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/c_icon.png" height="40" style="vertical-align:down; margin:4px" alt="C">
 <img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/cpp_icon.png" height="40" style="vertical-align:down; margin:4px" alt="C++">
 <img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/java_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Java">
 <img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/python_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Python">
 <img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/kotlin_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Kotlin">
+<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/flutter_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Flutter">
+<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/git_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Git">
+<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/firebase_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Firebase">
+<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/figma_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Figma">
 </p>
