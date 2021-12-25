@@ -27,5 +27,5 @@
 <img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/flutter_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Flutter">
 <img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/git_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Git">
 <img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/firebase_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Firebase">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/figma_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Figma">
+<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/figma_icn.png" height="40" style="vertical-align:down; margin:4px" alt="Figma">
 </p>
