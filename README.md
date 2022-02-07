@@ -4,8 +4,7 @@
 
 <!-- Currently works -->
 
-- 🔭 I’m currently working on a tracking and delivery system for carpet washing companies </br> </br>
-
+- 🔭 I’m currently learning Flutter. Improving myself on topics like State Management and MVVM </br> </br>
 
 <!-- General Informations -->
 
