@@ -4,8 +4,7 @@
 
 <!-- Currently works -->
 
-- I'm Android App Developer Intern at OBSS</br> </br>
-- I am also interested in IOS App Development. I'm improving myself on subjects such as Swift and SwiftUI.</br> </br>
+- I am interested in IOS App Development. I'm improving myself on subjects such as Swift and SwiftUI.</br> </br>
 
 <!-- General Informations -->
 
