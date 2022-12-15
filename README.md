@@ -1,29 +1,13 @@
-<!-- Heading -->
-<h2 align="center"> Hi. I am Tuğkan from Turkey, and it's my 4th year as a Computer Engineering student.</h1></br>
+<h1 align="center">Hi, I'm Tuğkan</h1>
+<h3 align="center">I am a 4th year Computer Engineering student at Gebze Technical University</h3>
 
-
-<!-- Currently works -->
-
-- I am interested in IOS App Development. I'm improving myself on subjects such as Swift and SwiftUI.</br> </br>
-
-<!-- General Informations -->
-
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=tgknyhn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgknyhn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-
-<!-- Tools & Technologies -->
-
-**Languages and Tools:**
-
-<p>
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/vsc_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio Code">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/c_icon.png" height="40" style="vertical-align:down; margin:4px" alt="C">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/cpp_icon.png" height="40" style="vertical-align:down; margin:4px" alt="C++">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/java_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Java">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/python_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Python">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/kotlin_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Kotlin">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/flutter_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Flutter">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/git_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Git">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/firebase_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Firebase">
-<img src="https://github.com/tgknyhn/tgknyhn/blob/main/images/figma_icon.png" height="40" style="vertical-align:down; margin:4px" alt="Figma">
+<p align="center">
+<img height="215px" src="https://github-readme-stats.vercel.app/api?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en" alt="tgknyhn"/> <img height="215px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tgknyhn" />
 </p>
+
+- I like building mobile apps using Flutter, Kotlin and Swift. But pursuing in IOS development(SwiftUI)
+- I also share my university assignments and projects here in the hope that they will be useful to GTU students
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
