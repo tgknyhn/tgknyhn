@@ -2,7 +2,7 @@
 <h3 align="center">I am a 4th year Computer Engineering student at Gebze Technical University</h3>
 
 <p align="center">
-<img height="215px" src="https://github-readme-stats.vercel.app/api?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en" alt="tgknyhn"/> <img height="215px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tgknyhn" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en" alt="tgknyhn"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tgknyhn" />
 </p>
 
 - I like building mobile apps using Flutter, Kotlin and Swift. But pursuing in IOS development(SwiftUI)
