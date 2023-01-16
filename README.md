@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Tuğkan</h1>
 <h3 align="center">I am a 4th year Computer Engineering student at Gebze Technical University</h3>
 
-<p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en" alt="tgknyhn"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tgknyhn" />
-</p>
+[//]: # (<p align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en" alt="tgknyhn"/> <img height="150px" src="https://github-readme stats.vercel.app/api/top-langs?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tgknyhn" /> </p>)
+
+
 
 - I like building mobile apps using Flutter, Kotlin and Swift. Particularly interested in Swift/SwiftUI
 - I also share my university assignments and projects here in the hope that they will be useful to GTU students
