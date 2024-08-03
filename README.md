@@ -6,7 +6,7 @@
 
 
 - I like building mobile apps using Flutter, Kotlin and Swift. Particularly interested in Swift/SwiftUI
-- I also share my university assignments and projects here in the hope that they will be useful to Computer Engineering students.
+- I also share my university assignments and projects here hoping they will be useful to Computer Engineering students.
 
 
 <h3 align="left">Languages and Tools:</h3>
