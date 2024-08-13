@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tuğkan</h1>
-<h3 align="center">I am a Junior iOS Developer at Softtech</h3>
+<h3 align="center">I am an iOS Developer at Softtech</h3>
 
 [//]: # (<p align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en" alt="tgknyhn"/> <img height="150px" src="https://github-readme stats.vercel.app/api/top-langs?username=tgknyhn&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tgknyhn" /> </p>)
 
